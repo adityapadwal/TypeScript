@@ -18,6 +18,7 @@ interface User2 {
 /* 
     Diference between types and interfaces
     1. Interfaes can be used to implement classes (types cannot).
-    2. Types can be used to perform unoins and intersections
+    2. Types can be used to perform unoins and intersections (interfaces cannot)
+    3. Syntax for types include '=' (interface systax does not include '=')
 
 */ 
