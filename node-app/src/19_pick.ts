@@ -1,5 +1,6 @@
 // Pick allows you to create a new type / interface by selecting properties from an existing type / interface
 
+// interfaces are used for giving a types to an object
 interface CompleteUserDetails {
     id: number,
     name: string,
